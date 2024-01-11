@@ -1,0 +1,334 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>My webpage</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="自己紹介">
+<meta name="keywords" content="キーワード１,キーワード２,キーワード３,キーワード４,キーワード５">
+<link rel="stylesheet" href="css/style.css">
+<link rel="stylesheet" href="css/style-opening.css">
+<script src="js/fixmenu_pagetop.js"></script>
+<!--[if lt IE 9]>
+<script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+<script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</head>
+
+<body>
+
+<header>
+
+<h1> 𝙒𝙚𝙡𝙘𝙤𝙢𝙚 𝙏𝙤 𝙔𝙤𝙪𝙨𝙨𝙚𝙛 𝙋𝙖𝙜𝙚 </h1>
+
+<ul id="menubar">
+<li id="menu1"><a href="#news"><img src="images/yyyyy.jk.png" alt=""><span>Travel<br></span></a></li>
+<li id="menu2"><a href="#about"><img src="images/yy.jk.png" alt=""><span>About<br></span></a></li>
+<li id="menu3"><a href="#gallery"><img src="images/yyy.jk.png" alt=""><span>Gallery<br></span></a></li>
+<li id="menu4"><a href="#link"><img src="images/yyyy.jk.png" alt=""><span>Link<br></span></a></li>
+<li id="menu5"><a href="#contact"><img src="images/y.jk.png" alt=""><span>Contact<br></span></a></li>
+</ul>
+
+</header>
+
+<div class="contents" id="news">
+
+	<div class="inner">
+
+	<section>
+
+	<h2>🅃🅁🄰🅅🄴🄻 <span> 僕が、旅行行きたい国です。</span></h2>
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+	  <title> The Dream </title>
+	</head>
+	<body>
+	  <h1> スイス (🇨🇭) </h1>
+	  <p>僕が、一番に旅行行きたい国です。自分は、自然なところが大好きで心が落ち着きます。</p>
+	  <img src="https://img.freepik.com/premium-photo/switzerland-country-flag-isolated-3d-waving-flag_712373-1654.jpg" width="500" height="500">
+	  <img src="https://d1d37e9z843vy6.cloudfront.net/jp/images/4568263/36e592f83ee7bb88e17740330da462639040706a.jpeg" width="500" height="500">
+
+	  <h1> イタリア (🇮🇹) </h1>
+	  <p> イタリア人は日本人と違って感情表現が豊かで、身振り手振りが大きいコミニュケーション文化があります。 </p>
+	  <img src="https://upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/1200px-Flag_of_Italy.svg.png" width="500" height="500">
+	  <img src="https://d1d37e9z843vy6.cloudfront.net/jp/images/3589421/e18905660c79c35ce680390d786e2563a115ead9.jpeg" width="500" height="500">
+
+	  <h1> イギリス (🇬🇧) </h1>
+	  <p> ロンドンにある有名な時計と写真撮りたいです。 </p>
+	  <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="500" height="500">
+	  <img src="https://www.coindeskjapan.com/wp-content/uploads/2022/04/shutterstock_1931210165-710x458.jpg" width="500" height="500">
+
+	  <h1> インドネシア (🇮🇩) </h1>
+	  <p> 海が空ぐらい綺麗です。</p>
+	  <img src="https://w0.peakpx.com/wallpaper/931/245/HD-wallpaper-indonesian-flag-indonesian-indonesia-flag-jakarta.jpg" width="500" height="500">
+	  <img src="https://imageio.forbes.com/specials-images/imageserve/675172642/pura-ulun-danu-bratan-temple-in-Bali-/960x0.jpg?format=jpg&width=960" width="500" height="500">
+	</body>
+
+	</html>
+
+	</section>
+
+	<section>
+
+	<h2>旅行<span>今までに自分が旅行行った国</span></h2>
+
+	<!DOCTYPE html>
+	<html>
+	<head>
+	  <title> The Dream </title>
+	</head>
+	<body>
+	  <h1> エジプト (🇪🇬) </h1>
+	  	<p>自分の両親の国と別で、本当に世界一、人が明るくて、優しいです。</p>
+	  <img src="https://media.istockphoto.com/id/936894892/photo/flag-of-egypt-waving-background.jpg?s=612x612&w=0&k=20&c=fZSg8RmwIZUUMrB_kJGYQ0QI0a-FohLim_QKk1d91tQ=" width="500" height="500">
+	  <img src="https://static.zawya.com/view/acePublic/alias/contentid/Yzg4NmI0YmEtOTQzMC00/7/1148380677.webp?f=3%3A2&q=0.75&w=3840" width="500" height="500">
+
+	  <h1> United Arab Emirates (🇦🇪) </h1>
+	 	 <p> 誰、でも住みやすい国です。 </p>
+	  <img src="https://imagevars.gulfnews.com/2021/11/12/UAE-flag_17d13e15440_medium.jpg" width="500" height="500">
+	  <img src="https://www.theglobetrottingdetective.com/wp-content/uploads/2021/01/Dubai-in-7-days-and-best-things-to-do-in-Dubai-.jpg" width="500" height="500">
+
+	  <h1> ベトナム (🇻🇳) </h1>
+	 	 <p> ご飯が美味しくて、人が優しくて後は国も思った以上に落ち着いてます。 </p> 
+	  <img src="https://life.viet-jo.com/images/article_content/16922.png" width="500" height="500">
+	  <img src="https://i0.wp.com/vietnam-lifestyle.com/wp-content/uploads/2018/07/vietnam-ho-chi-minh-city-maisema-ss-1-1.jpg?fit=1024%2C768&ssl=1" width="500" height="500">
+
+	  <h1> カンボジア (🇰🇭) </h1>
+	  <p>カンボジアは、空港が一軒家みたいだった、でも綺麗でした。</p>
+	  <img src="https://aseanpedia.asean.or.jp/wp-content/uploads/2022/04/Cambodia.jpg" width="500" height="500">
+	  <img src="https://tabippo.net/wp-content/uploads/shutterstock_109322552.jpg" width="500" height="500">
+	</body>
+
+	</html>
+
+
+	
+	
+	</dl>
+	<p class="r">&raquo;&nbsp;<a href="#"> GO UP </a></p>
+
+	</section>
+
+	</div>
+	<!--/.inner-->
+
+</div>
+<!--/.contents-->
+
+
+<div class="contents bg1" id="about">
+
+	<div class="inner">
+	
+	<section>
+
+	<h2>𝕬𝕭𝕺𝖀𝕿<span>自己紹介</span></h2>
+		
+	<h3> 初めまして、僕の名前は、エルノビ ユッセフです。</h3>
+	<h1> お誕生日: 2001年04月11日 (22才) </h1>
+	
+
+	<p>僕は、大阪生まれの福岡育ちです。国籍は、エジプトです。(🇪🇬)幼い頃からクリスティアーノ・ロナウドがとても好きで、小学校1年生から高校1年生までサッカーやってました。約(12間)
+		サッカーやめた後は、友達からモデルの仕事紹介されてでモデルの仕事初めました、初めた半年後に深田恭子の映画があるんですけどって言われて、僕深田恭子が大好きで、すぐエキストラの応募しました。
+		100人のうち、15名選ばれて、そのうちの1人が自分でした。ワクワクで、自分が幼い頃から好きだった、女優に会うの楽しみにしてました。会った瞬間、日本語話せるんですか？って聞かれて、
+		日本生まれ日本育ちですと答えたらへーすごいって言われてめちゃくちゃ美人でした。人生で、それが1番良い思い出になりました。自分は高校卒業し、世界中回る夢があったんですけど、
+		ちょうどコロナが早い流行りだした時期でその夢叶うことができなかったため、新しいことを勉強しようと思ってITの専門学校生始めました。今はIT勉強しながら行きたかった国に旅行に行ってます。<br></p>
+
+	<h3> 自然な所 (🌊) </h3>
+
+		<p>自分は、幼い頃から海がとても好きで、夜でも海ずっと見ながら何も考えずに見てます嫌なことがあったら海行ってゆっくり落ちついてます。夜の海もとても綺麗です。</p>
+
+		<img src="https://travel.rakuten.co.jp/mytrip/sites/mytrip/files/styles/main_image/public/migration_article_images/amazing/summer-beach-key.jpg?itok=i3Vt1ElL" alt="写真" width="500" height="500">
+		<img src="https://photohito.k-img.com/uploads/photo70/user69250/2/e/2e4de648a24cd2475cc40130bcc2c8d9/2e4de648a24cd2475cc40130bcc2c8d9_l.jpg" alt="写真" width="500" height="500">
+		<img src="https://pbs.twimg.com/media/C4EabTwUYAADdGp.jpg" alt="写真" width="500" height="500">
+		<img src="https://s3-ap-northeast-1.amazonaws.com/thegate/2022/04/14/16/48/58/top.jpg" alt="写真" width="500" height="500">
+
+		
+		<div id="bar-graph" class="content">
+			<h2 class="c-title">話せる言語</h2>
+			<div class="bar-graph-wrap">
+			  <div class="graph blue">
+				<span class="name">日本語🇯🇵</span>
+				<span class="number">93%</span>
+			  </div>														
+			  <div class="graph red">
+				<span class="name">アラビア語🇪🇬</span>
+				<span class="number">101%</span>							
+			  </div>
+			  <div class="graph green">
+				<span class="name">英語🇬🇧</span>
+				<span class="number">90%</span>
+			  </div>
+			</div>
+		  </div>
+		
+	
+
+	</section>
+	
+
+	</div>
+	<!--/.inner-->
+
+</div>
+<!--/.contents-->
+
+<div class="contents" id="gallery">
+
+	<div class="inner">
+	
+	<section>
+
+	<h2>𝕲𝖆𝖑𝖑𝖊𝖗𝖞<span></span></h2>
+	
+	<div class="list">
+	<a href="images_photo/11.jpeg" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/11.jpeg" alt=""></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/8.JPG" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/8.JPG" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/13.jpeg" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/13.jpeg" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/14.jpeg" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/14.jpeg" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/15.JPG" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/15.JPG" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/16.jpeg" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/16.jpeg" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/17.JPG" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/17.JPG" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/18.jpeg" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/18.jpeg" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	<div class="list">
+	<a href="images_photo/9.jpeg" data-lightbox="group1" data-title="😈🖤">
+	<figure><img src="images_photo/9.jpeg" alt="写真の説明を入れます"></figure>
+	</a>
+	</div>
+
+	
+	
+	</section>
+
+	</div>
+	<!--/.inner-->
+
+</div>
+<!--/.contents-->
+
+<div class="contents bg1" id="link">
+
+	<div class="inner">
+	
+	<section>
+
+	<h2> 🄻🄸🄽🄺 <span></span></h2>
+	
+	<table class="ta1">
+	<caption> 良かったらSNSをフォローお願いします。 </caption>
+	<tr>
+	<th><a href="https://instagram.com/yussef_elnoby?igshid=OGQ5ZDc2ODk2ZA=="><img src="images/07.JPG" alt=""width="40"height="40"> 𝔦𝔫𝔰𝔱𝔞𝔤𝔯𝔞𝔪</a></th>
+	<td>インスタのフォローお願いします。</td>
+	</tr>
+	<tr>
+	<th><a href="https://www.facebook.com/yussef.elnoby"><img src="images/00.PNG"width="40"height="40"> 𝕱𝖆𝖈𝖊𝖇𝖔𝖔𝖐</a></th>
+	<td>フェイスブックのフォローお願いします。</td>
+	</tr>
+	<tr>
+	<th><a href="https://www.threads.net/@yussef_elnoby"><img src="images/90.png"width="40"height="40">𝓣𝓱𝓻𝓮𝓪𝓭𝓼 </a></th>
+	<td>スレッドのフォローお願いします。</td>
+	</tr>
+	<tr>
+	<th><a href="https://t.snapchat.com/zhJiHvMR"><img src="images/snap.png"width="40"height="40">𝓢𝓷𝓪𝓹𝓬𝓱𝓪𝓽</a></th>
+	<td>スナップチャットのフォローお願いします。</td>
+	</tr>
+	<tr>
+	<th><a href="https://www.tiktok.com/@yussef_elnoby?_t=8eOEoboydHk&_r=1"><img src="images/tiktok.jpeg"width="40"height="40">𝓣𝓲𝓴𝓣𝓸𝓴</a></th>
+	<td>ティックトックのフォローお願いします。</td>
+	</tr>
+
+	
+	</tr>
+	</table>
+
+	</section>
+
+	</div>
+	<!--/.inner-->
+
+</div>
+<!--/.contents-->
+
+<div class="contents bg2" id="contact">
+
+	<div class="inner">
+	
+	<section>
+
+	<h2>𝘾𝙤𝙣𝙩𝙖𝙘𝙩<span></span></h2>
+	
+	<p class="c"><span class="big1">𝓎𝑜𝓊𝓈𝓈𝑒𝒻𝑒𝓁𝓃𝑜𝒷𝓎𝟩𝟢𝟢@𝑔𝓂𝒶𝒾𝓁.𝒸𝑜𝓂</span></p>
+
+
+	<p class="c">𝓘𝓯 𝓨𝓸𝓾 𝓝𝓮𝓮𝓭 𝓜𝓮 𝓒𝓪𝓵𝓵 𝓜𝓮<br></p>
+
+	
+	
+	
+	</section>
+
+	</div>
+	<!--/.inner-->
+
+</div>
+<!--/.contents-->
+
+<footer>
+<small>&copy; <a href="index.html">𝕿𝖍𝖆𝖓𝖐 𝖞𝖔𝖚</a> </small>
+<span class="pr"><a href="https://template-party.com/" target="_blank"></a></span>
+</footer>
+
+<!--jQueryファイルの読み込み-->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+
+<!--ページの上部へ戻るボタンとスクリプト-->
+<p class="scroll"><a href="#">↑</a></p>
+<script src="js/scroll.js"></script>
+
+<!--lightbox用jsファイルの読み込み-->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.10.0/js/lightbox-plus-jquery.min.js"></script>
+
+</body>
+</html>
